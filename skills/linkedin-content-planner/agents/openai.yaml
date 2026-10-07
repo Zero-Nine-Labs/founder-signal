@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Content Planner"
+  short_description: "Plan founder content by topic and funnel stage"
+  default_prompt: "Use $linkedin-content-planner to plan my next week of founder posts by topic and funnel stage."

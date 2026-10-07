@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Profile Audit"
+  short_description: "Score founder profiles and draft practical improvements"
+  default_prompt: "Use $linkedin-profile-audit to audit this founder profile, score its readiness and draft improvements."

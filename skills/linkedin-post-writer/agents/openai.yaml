@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Post Writer"
+  short_description: "Draft focused founder posts from real source material"
+  default_prompt: "Use $linkedin-post-writer to draft this founder post for my chosen topic and funnel stage."

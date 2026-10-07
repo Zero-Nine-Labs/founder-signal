@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Post Creator"
+  short_description: "Create one focused post with ideas, content and caption"
+  default_prompt: "Use $linkedin-post-creator to create ideas, content and a caption for one LinkedIn post about this selected section."
