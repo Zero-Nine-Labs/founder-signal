@@ -1,4 +1,4 @@
-# Testing the LinkedIn skills
+# Testing Founder Signal
 
 Use a fresh agent context for each fixture. Give it the current skill path and raw request only. Do not show expected answers, other case outputs or evaluator notes. Keep founder context inside the fixture so earlier cases cannot supply a missing goal, section or proof. Use the requested test model and record it. Record the skill commit or file hashes before each round.
 
